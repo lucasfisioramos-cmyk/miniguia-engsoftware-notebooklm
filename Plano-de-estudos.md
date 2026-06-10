@@ -8,7 +8,6 @@ Compreender conceitos básicos de engenharia de software.
 
 - Entender o processo de desenvolvimento de software, e as fases deste processo
 - Compreender utilização de metodologias ageis, especificamente Scrum, e kaban
-- 
 
 ## Critérios de Avaliação
 
