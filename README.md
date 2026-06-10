@@ -9,17 +9,17 @@ Notebooklm criado para auxiliar os estudos em engenharia de software, e metodolo
 - Construir um guia de revisão reutilizável
 
 # Fontes utilizadas
-## Engenharia de Software Moderna [[https://engsoftmoderna.info/]]
-  - [[https://engsoftmoderna.info/cap1.html]]
-  - [[https://engsoftmoderna.info/cap2.html]]
-  - [[https://engsoftmoderna.info/cap3.html]]
-  - [[https://engsoftmoderna.info/cap4.html]]
-  - [[https://engsoftmoderna.info/cap5.html]]
-  - [[https://engsoftmoderna.info/cap6.html]]
-  - [[https://engsoftmoderna.info/cap7.html]]
-  - [[https://engsoftmoderna.info/cap8.html]]
-  - [[https://engsoftmoderna.info/cap9.html]]
-  - [[https://engsoftmoderna.info/cap10.html]]
+## [Engenharia de Software Moderna](https://engsoftmoderna.info/)
+  - [Introdução](https://engsoftmoderna.info/cap1.html)
+  - [Processos](https://engsoftmoderna.info/cap2.html)
+  - [Requisitos](https://engsoftmoderna.info/cap3.html)
+  - [Modelos](https://engsoftmoderna.info/cap4.html)
+  - [Princípios de Projeto](https://engsoftmoderna.info/cap5.html)
+  - [Padrões de Projeto](https://engsoftmoderna.info/cap6.html)
+  - [Arquitetura](https://engsoftmoderna.info/cap7.html)
+  - [Testes](https://engsoftmoderna.info/cap8.html)
+  - [Refactoring](https://engsoftmoderna.info/cap9.html)
+  - [DevOps]([https://engsoftmoderna.info/cap10.html)
 
 # Estrutura do Projeto
 - fontes/
